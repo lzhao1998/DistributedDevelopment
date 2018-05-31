@@ -24,4 +24,6 @@ Hello world.
 
 Please go to Google website to search more information. Here is the [link.](http://google.com)
 
+Emoji is here!! :point_right: :raised_hands: :point_left:
+
 >>>>>>> 804810d36c1baf9f3fb9f0ce8378bae09743d567
