@@ -8,4 +8,8 @@ Hello world.
 
 Please go to Google website to search more information. Here is the [link.](http://google.com)
 
+Hahaha, this is so fun ~~~~ 
+
+Please do not do any conflict again, so lazy to do again.
+
 Good luck for writing the program...haha
