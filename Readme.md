@@ -6,9 +6,20 @@ I welcome all of you to come help grow this sourcebase so that we can create a w
 Hello world.
 
 
+
 Hello world.
+
 
 Hahaha, this is so fun ~~~~ 
 
 Please do not do any conflict again, so lazy to do again.
 
+
+Good luck for writing the program...haha
+
+
+hello testing reduce conflict
+
+
+
+Ermmmm...Hmmmm...Don't reject this hiak hiak hiak
